@@ -1,0 +1,22 @@
+body
+{
+    
+    background-image: url(../media/1.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.word
+{
+    margin: 250px;
+    text-align: center;
+}
+.word h4
+{
+    font-size: 40px;
+    font-weight: 600;
+}
+.word p{
+    font-weight: bold;
+    font-size: 20px;
+}
