@@ -8,7 +8,7 @@ body
 
 .word
 {
-    margin: 250px;
+    margin: 200px auto;
     text-align: center;
 }
 .word h4
