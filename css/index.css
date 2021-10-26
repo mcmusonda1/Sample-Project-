@@ -1,7 +1,7 @@
 body
 {
     
-    background-image: url(../media/1.jpg);
+    background-image: url(../media/3.jpg);
     background-size: 100% 100%;
     background-attachment: fixed;
 }
@@ -9,7 +9,8 @@ body
 .word
 {
     margin: 200px auto;
-    text-align: center;
+    text-align: left;
+    color: black;
 }
 .word h4
 {

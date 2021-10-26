@@ -6,14 +6,11 @@ body
 }
 .word
 {
-    text-align: center;
+    text-align: left;
     color: #fff;
     padding-top: 100px;
 }
-h1
-{
-    font-family: cursive;
-}
+
 .fa-whatsapp
 {
     color: green;
